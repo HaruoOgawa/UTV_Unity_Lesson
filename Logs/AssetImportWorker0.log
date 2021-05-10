@@ -224,3 +224,15 @@ System memory in use after: 50.2 MB.
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2198.
 Total: 5.000600 ms (FindLiveObjects: 0.443400 ms CreateObjectMapping: 0.157600 ms MarkObjects: 4.220600 ms  DeleteObjects: 0.176500 ms)
 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 50.96 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.21 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2198.
+Total: 18.400800 ms (FindLiveObjects: 0.977000 ms CreateObjectMapping: 2.139000 ms MarkObjects: 15.132500 ms  DeleteObjects: 0.147400 ms)
+
