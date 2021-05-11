@@ -217,3 +217,100 @@ Received Import Request.
 Start importing Assets/Lesson/Prefab/Ball.prefab using Guid(156026ac417aecc4f8d0c6a7bc8f59c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaca51ad77877b4945fee6a8355b85f6') in 0.049273 seconds
   Import took 0.052338 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.5 MB.
+System memory in use after: 95.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 1.820700 ms (FindLiveObjects: 0.154300 ms CreateObjectMapping: 0.053900 ms MarkObjects: 1.331700 ms  DeleteObjects: 0.280000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.5 MB.
+System memory in use after: 95.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 1.871500 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.061900 ms MarkObjects: 1.325800 ms  DeleteObjects: 0.292100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 629.960728 seconds.
+  path: Assets/Lesson/Prefab/BallSpawner.prefab
+  artifactKey: Guid(2b8afca85a6e7fd4cb9495f587a5c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lesson/Prefab/BallSpawner.prefab using Guid(2b8afca85a6e7fd4cb9495f587a5c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b1fac5fb1a5085c50e84bf3e069e47') in 0.057914 seconds
+  Import took 0.062531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.226861 seconds.
+  path: Assets/Lesson/Material/bar.mat
+  artifactKey: Guid(29244a134034911448cd1f85b0378815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lesson/Material/bar.mat using Guid(29244a134034911448cd1f85b0378815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ea839135e7f0166a428e9a7d617841') in 0.044829 seconds
+  Import took 0.052471 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.5 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 2.272500 ms (FindLiveObjects: 0.292200 ms CreateObjectMapping: 0.114600 ms MarkObjects: 1.538300 ms  DeleteObjects: 0.326400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 441.640191 seconds.
+  path: Assets/Lesson/Material/bar.mat
+  artifactKey: Guid(29244a134034911448cd1f85b0378815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lesson/Material/bar.mat using Guid(29244a134034911448cd1f85b0378815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5f12376857287ff1e1506312926687') in 0.060459 seconds
+  Import took 0.064280 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
