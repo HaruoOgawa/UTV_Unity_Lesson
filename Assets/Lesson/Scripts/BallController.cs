@@ -26,5 +26,12 @@ public class BallController : MonoBehaviour
             Destroy(this.gameObject);
             ballSpawner.Spawn();
         }
+
+        if (OVRInput.GetDown(OVRInput.RawButton.LIndexTrigger) || OVRInput.GetDown(OVRInput.RawButton.RIndexTrigger))
+        {
+            Debug.Log("Input Oculus Touch!!");
+            Destroy(this.gameObject);
+            ballSpawner.Spawn();
+        }
     }
 }

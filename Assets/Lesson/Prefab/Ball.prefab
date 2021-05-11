@@ -146,4 +146,4 @@ MonoBehaviour:
   rb: {fileID: 255347517766796376}
   angularVal: 2
   maxVelocity: 10
-  ballSpawner: {fileID: 183934530355464178, guid: 2b8afca85a6e7fd4cb9495f587a5c5ec, type: 3}
+  ballSpawner: {fileID: 1267417316902735155, guid: 2b8afca85a6e7fd4cb9495f587a5c5ec, type: 3}
