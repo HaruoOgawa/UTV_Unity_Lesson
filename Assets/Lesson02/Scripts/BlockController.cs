@@ -15,4 +15,12 @@ public class BlockController : MonoBehaviour
     {
         
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.gameObject.tag == "Ball")
+        {
+            Destroy(this.gameObject);
+        }
+    }
 }

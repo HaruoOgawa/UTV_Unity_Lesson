@@ -21,7 +21,7 @@ public class BallController : MonoBehaviour
             rb.velocity *=angularVal;
         }
 
-        if (this.gameObject.transform.position.y < -2.0)
+        if (this.gameObject.transform.position.y < -10.0)
         {
             Destroy(this.gameObject);
             ballSpawner.Spawn();

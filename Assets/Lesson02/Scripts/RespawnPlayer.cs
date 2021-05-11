@@ -15,7 +15,7 @@ public class RespawnPlayer : MonoBehaviour
     void Update()
     {
         //Debug.Log(this.gameObject.transform.position.y);
-        if (this.gameObject.transform.position.y < -1.0f)
+        if (this.gameObject.transform.position.y < -10.0f)
         {
             Debug.Log("Hello");
 
