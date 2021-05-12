@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class BallController : MonoBehaviour
 {
-    [SerializeField] Rigidbody rb;
-    [SerializeField] float angularVal=1.0f;
-    [SerializeField] float maxVelocity = 10.0f;
-    [SerializeField] BallSpawner ballSpawner;
+    public Rigidbody rb;
+    public float angularVal=1.0f;
+    public float maxVelocity = 10.0f;
+    public BallSpawner ballSpawner;
     void Start()
     {
         

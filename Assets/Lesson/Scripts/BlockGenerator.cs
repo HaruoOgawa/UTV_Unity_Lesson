@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class BlockGenerator : MonoBehaviour
 {
-    [SerializeField] GameObject block;
+    public GameObject block;
 
-    [SerializeField] int xSegment = 8;
-    [SerializeField] int ySegment = 3;
-    [SerializeField] int zSegment = 6;
+    public int xSegment = 8;
+    public int ySegment = 3;
+    public int zSegment = 6;
 
-    [SerializeField] float xWidth = 3.0f;
-    [SerializeField] float yWidth = 3.0f;
-    [SerializeField] float zWidth = 3.0f;
+    public float xWidth = 3.0f;
+    public float yWidth = 3.0f;
+    public float zWidth = 3.0f;
 
    
-    // Start is called before the first frame update
+    
     void Start()
     {
         Vector3 startPos = this.gameObject.transform.position;
@@ -34,7 +34,7 @@ public class BlockGenerator : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
+   
     void Update()
     {
         

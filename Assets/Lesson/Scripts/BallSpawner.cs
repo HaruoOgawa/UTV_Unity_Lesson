@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallSpawner : MonoBehaviour
 {
-    [SerializeField] GameObject ball;
+    public GameObject ball;
     
     void Start()
     {
